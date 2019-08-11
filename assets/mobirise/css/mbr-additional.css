@@ -1524,6 +1524,85 @@ body {
     -webkit-flex-basis: initial !important;
   }
 }
+.cid-rySORnRyfw {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-rySORnRyfw .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rySORnRyfw .container-table {
+  margin: 0 auto;
+}
+.cid-rySORnRyfw .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-rySORnRyfw .dataTables_wrapper {
+  display: block;
+}
+.cid-rySORnRyfw .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-rySORnRyfw .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-rySORnRyfw table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+}
+.cid-rySORnRyfw table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-rySORnRyfw table th:hover {
+  background: #cccccc;
+  color: #000000;
+}
+.cid-rySORnRyfw table td {
+  border-top: 1px solid #cccccc;
+}
+.cid-rySORnRyfw table.table {
+  background: #ffffff;
+}
+.cid-rySORnRyfw .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-rySORnRyfw .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-rySORnRyfw .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-rySORnRyfw .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-rySORnRyfw .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-rySORnRyfw .dataTables_filter {
+    text-align: center;
+  }
+  .cid-rySORnRyfw .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
 .cid-rySBMb3reh {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1632,24 +1711,4 @@ body {
 }
 .cid-rySleXcHLL P {
   color: #ffffff;
-}
-.cid-rySKpoUucZ {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rySKpoUucZ h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-rySKpoUucZ p {
-  color: #767676;
-  text-align: left;
-}
-.cid-rySKpoUucZ .card-box {
-  padding-top: 2rem;
-}
-.cid-rySKpoUucZ .card-wrapper {
-  height: 100%;
 }
